@@ -1,0 +1,9 @@
+---
+title: "Lección 1: Introducción"
+description: "De qué trata esta lección"
+date: "2026-01-15"
+---
+
+## Bienvenida
+
+Aquí va tu contenido.
